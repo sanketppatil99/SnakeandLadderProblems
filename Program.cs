@@ -5,8 +5,7 @@
         public static void Main(string[] args)
         {
             Console.WriteLine("Welcome to Snake and Ladder Problem");
-            // Game.StartGame();
-            Game.PlayerRollDice();
+            Game.CheckOptions();
         }
     }
 }
